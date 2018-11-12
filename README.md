@@ -8,6 +8,10 @@ my repo test git
 4- modify file
 5- commit modification 
 	git commit -m "comment related to modification"
-	git push origin master
+	git push 
+
+
+# to add document
+git add *
 
 
