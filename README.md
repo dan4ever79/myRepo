@@ -6,7 +6,7 @@ my repo test git
 3- clone repo : exec cmd :
 	git clone git@github.com:dan4ever79/myRepo.git
 4- modify file
-	git add
+	git add *d
 	git rm
 	git mv
 5- commit modification 
